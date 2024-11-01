@@ -1,2 +1,1 @@
-# Power-Bi-Analysis
-Power BI Dashboard: Visual Insights into Clients Sales Performance.
+In this project, I used Power BI to perform a detailed analysis of client sales data. The goal was to visualize and derive insights from the data, focusing on revenue performance, product categories, and regional sales trends.
